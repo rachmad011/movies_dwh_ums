@@ -25,7 +25,7 @@ Sebelum menginstalasi, kami sarankan buat dan jalankan dulu virtual environment 
   cd movies_dwh_ums
   pip install -r requirements.txt
 ```
-    
+Jangan lupa juga untuk mendownload file pendukungnya yang saya share di bawah ini untuk `movie.csv` dan `rating.csv`, lalu letakan di direktori/folder paling dasar untuk project `movies_dwh_ums` bersamaan dengan file `main_pipeline.csv`
 ## Deployment
 
 Asumsikan Anda sudah di dalam virtual environment yang telah dibuat. Anda tinggal jalankan file utama untuk pipeline. 
